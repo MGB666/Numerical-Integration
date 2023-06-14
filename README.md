@@ -19,3 +19,7 @@ The repository contains the following:
 - quadrature.py: Python script containing the implementation of Simpson's Rule and Adaptive Quadrature methods.
 - Numerical Integration Project.ipynb: Jupyter Notebook that uses the implemented methods, explains the theory, and visualizes the results.
 - README.md: The file you're reading now.
+
+## License
+
+This project is licensed under the terms of the [MIT License](./LICENSE)
